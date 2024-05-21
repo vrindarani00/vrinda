@@ -95,6 +95,7 @@
   <li>📚 Reading and writing is my hobby</li>
   <li>🔬 I like to research</li>
   <li>📅 I work well on projects with a timeline</li>
+  <li>📝 i like to learn about langchain and work on llm </li>
 </ul>
 
 ---
