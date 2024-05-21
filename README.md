@@ -97,7 +97,3 @@
   <li>📅 I work well on projects with a timeline</li>
   <li>📝 i like to learn about langchain and work on llm </li>
 </ul>
-
----
-
-This profile now includes your new skills and perks, making it more comprehensive and highlighting your personal attributes and professional capabilities.
