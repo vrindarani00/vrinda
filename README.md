@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on LLM and Deep Learning
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@vrindarani)
+- 📝 I write articles on [Medium](https://medium.com/@vrindarani)
 
 - 📫 How to reach me: Vrindarani00@gmail.com
 
